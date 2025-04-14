@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7186e2ea414ee8945b4eb26aacaa43d3
+guid: 70b21bca30060964c94c1cec95690b64
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2055008003363216766
-    second: monster1_0
+      213: -3947605026482256522
+    second: prairie2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: monster1_0
+      name: prairie2_0
       rect:
         serializedVersion: 2
-        x: 154
-        y: 2458
-        width: 581
-        height: 685
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 685, z: 0, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28263fcdb152b73e0800000000000000
-      internalID: -2055008003363216766
+      spriteID: 6758afac42a4739c0800000000000000
+      internalID: -3947605026482256522
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d3de5eb787d87fe44bbc2cac89709cc5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      monster1_0: -2055008003363216766
+      prairie2_0: -3947605026482256522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
